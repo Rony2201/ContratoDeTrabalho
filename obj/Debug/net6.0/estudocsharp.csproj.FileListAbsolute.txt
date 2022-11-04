@@ -1,0 +1,15 @@
+C:\Users\ronie\OneDrive\Documentos\exemplocsharp\estudocsharp\estudocsharp\bin\Debug\net6.0\estudocsharp.exe
+C:\Users\ronie\OneDrive\Documentos\exemplocsharp\estudocsharp\estudocsharp\bin\Debug\net6.0\estudocsharp.deps.json
+C:\Users\ronie\OneDrive\Documentos\exemplocsharp\estudocsharp\estudocsharp\bin\Debug\net6.0\estudocsharp.runtimeconfig.json
+C:\Users\ronie\OneDrive\Documentos\exemplocsharp\estudocsharp\estudocsharp\bin\Debug\net6.0\estudocsharp.dll
+C:\Users\ronie\OneDrive\Documentos\exemplocsharp\estudocsharp\estudocsharp\bin\Debug\net6.0\estudocsharp.pdb
+C:\Users\ronie\OneDrive\Documentos\exemplocsharp\estudocsharp\estudocsharp\obj\Debug\net6.0\estudocsharp.csproj.AssemblyReference.cache
+C:\Users\ronie\OneDrive\Documentos\exemplocsharp\estudocsharp\estudocsharp\obj\Debug\net6.0\estudocsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronie\OneDrive\Documentos\exemplocsharp\estudocsharp\estudocsharp\obj\Debug\net6.0\estudocsharp.AssemblyInfoInputs.cache
+C:\Users\ronie\OneDrive\Documentos\exemplocsharp\estudocsharp\estudocsharp\obj\Debug\net6.0\estudocsharp.AssemblyInfo.cs
+C:\Users\ronie\OneDrive\Documentos\exemplocsharp\estudocsharp\estudocsharp\obj\Debug\net6.0\estudocsharp.csproj.CoreCompileInputs.cache
+C:\Users\ronie\OneDrive\Documentos\exemplocsharp\estudocsharp\estudocsharp\obj\Debug\net6.0\estudocsharp.dll
+C:\Users\ronie\OneDrive\Documentos\exemplocsharp\estudocsharp\estudocsharp\obj\Debug\net6.0\refint\estudocsharp.dll
+C:\Users\ronie\OneDrive\Documentos\exemplocsharp\estudocsharp\estudocsharp\obj\Debug\net6.0\estudocsharp.pdb
+C:\Users\ronie\OneDrive\Documentos\exemplocsharp\estudocsharp\estudocsharp\obj\Debug\net6.0\estudocsharp.genruntimeconfig.cache
+C:\Users\ronie\OneDrive\Documentos\exemplocsharp\estudocsharp\estudocsharp\obj\Debug\net6.0\ref\estudocsharp.dll
